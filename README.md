@@ -32,8 +32,6 @@ This project is a continuation of my journey in **Excel for Data Analysis**, whe
 
 ![Screenshot 2025-02-26 112029](https://github.com/user-attachments/assets/c3394038-f6b5-40af-862a-72b97f81390f)
 
-![Screenshot 2025-02-24 192536](https://github.com/user-attachments/assets/53f74875-b18f-401c-862e-491669e933e0)
-
   
 
 ---
@@ -48,6 +46,7 @@ This project is a continuation of my journey in **Excel for Data Analysis**, whe
 ```dax
 AverageSales = SUM(Sales[Revenue]) / DISTINCTCOUNT(Sales[CustomerID])
 ```
+![Screenshot 2025-02-26 112310](https://github.com/user-attachments/assets/4e74ff37-3590-4c41-95b6-9ac265af81dd)
 
 ---
 
@@ -77,8 +76,8 @@ AverageSales = SUM(Sales[Revenue]) / DISTINCTCOUNT(Sales[CustomerID])
 ---
 
 ## 🙏 **Acknowledgments**  
-- **[Luke’s Free Excel Course](https://example.com/course-link)** – For teaching the advanced techniques used in this project (replace with actual course link).  
-- **[Your Name]** – Completed all analyses, dashboards, and implementations to apply the learned concepts.  
+- **[Luke’s Free Excel Course](https://youtu.be/pCJ15nGFgVg?si=YK5_NFA6ZtJE_DEh)** – For teaching the advanced techniques used in this project (replace with actual course link).  
+- **[Maruffuzzman Tanvir](www.linkedin.com/in/maruffuzzman-tanvir)** – Completed all analyses, dashboards, and implementations to apply the learned concepts.  
 
 ---
 
@@ -88,8 +87,7 @@ AverageSales = SUM(Sales[Revenue]) / DISTINCTCOUNT(Sales[CustomerID])
 ---
 
 ## 🤝 **Connect With Me**  
-📧 **Email:** [your.email@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter/X:** [twitter.com/yourhandle](https://twitter.com/yourhandle)  
+💼 **LinkedIn:** [Maruffuzzman Tanvir](www.linkedin.com/in/maruffuzzman-tanvir)  
+🐦 **Twitter/X:** [MZ Tanvir](https://x.com/maruffuzzman)  
 
 **Feedback?** I’d love to hear your thoughts! 😊  
