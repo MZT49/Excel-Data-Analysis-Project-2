@@ -77,7 +77,7 @@ AverageSales = SUM(Sales[Revenue]) / DISTINCTCOUNT(Sales[CustomerID])
 
 ## 🙏 **Acknowledgments**  
 - **[Luke’s Free Excel Course](https://youtu.be/pCJ15nGFgVg?si=YK5_NFA6ZtJE_DEh)** – For teaching the advanced techniques used in this project (replace with actual course link).  
-- **[Maruffuzzman Tanvir](https://www.linkedin.com/maruffuzzman-tanvir)** – Completed all analyses, dashboards, and implementations to apply the learned concepts.  
+- **[Maruffuzzman Tanvir](www.linkedin.com/in/maruffuzzmantanvir)** – Completed all analyses, dashboards, and implementations to apply the learned concepts.  
 
 ---
 
@@ -87,7 +87,7 @@ AverageSales = SUM(Sales[Revenue]) / DISTINCTCOUNT(Sales[CustomerID])
 ---
 
 ## 🤝 **Connect With Me**  
-💼 **LinkedIn:** [Maruffuzzman Tanvir](linkedin.com/in/maruffuzzman-tanvir)  
+💼 **LinkedIn:** [Maruffuzzman Tanvir](www.linkedin.com/in/maruffuzzmantanvir)  
 🐦 **Twitter/X:** [MZ Tanvir](https://x.com/maruffuzzman)  
 
 **Feedback?** I’d love to hear your thoughts! 😊  
