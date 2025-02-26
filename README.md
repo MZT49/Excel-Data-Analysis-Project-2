@@ -5,8 +5,8 @@
 This project is a continuation of my journey in **Excel for Data Analysis**, where I explored **advanced Excel features** such as Pivot Tables, Power Query, Power Pivot, and DAX. The goal was to analyze data efficiently and create insightful visualizations.  
 
 📂 **Project Files:**  
-- **[Excel_Project_2_Part-1.xlsx](./Excel_Project_2_part-1.xlsx)**  
-- **[Excel_Project_2_Part-2.xlsx](./Excel_Project_2_part-2.xlsx)**  
+- **[Excel_Project_2_Part-1.xlsx](https://github.com/MZT49/Excel-Data-Analysis-Project-2/blob/main/Excel-Data-Analysis-Project-2/Excel_Project_2_part-1.xlsx)**  
+- **[Excel_Project_2_Part-2.xlsx](https://github.com/MZT49/Excel-Data-Analysis-Project-2/blob/main/Excel-Data-Analysis-Project-2/Excel_Project_2_part-2.xlsx)**  
 
 ---
 
