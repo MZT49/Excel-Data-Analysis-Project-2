@@ -82,7 +82,7 @@ AverageSales = SUM(Sales[Revenue]) / DISTINCTCOUNT(Sales[CustomerID])
 ---
 
 ## 📂 **Check Out My Work**  
-🔗 **GitHub Portfolio:** [My Data Projects](https://lnkd.in/gSKnCH2h)  
+🔗 **GitHub Portfolio:** [My Data Projects](https://github.com/MZT49/Excel-Data-Analysis-Project)  
 
 ---
 
