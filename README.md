@@ -18,7 +18,8 @@ This project is a continuation of my journey in **Excel for Data Analysis**, whe
 
 🔹 Example: Analyzing sales trends across different regions using **Pivot Charts**  
 
-![Pivot Table Example](./images/pivot_table_example.png)  
+![Screenshot 2025-02-24 192925](https://github.com/user-attachments/assets/3b3f7ea7-bfd3-4ef4-85d6-1830a33c5376)
+  
 
 ---
 
@@ -29,7 +30,11 @@ This project is a continuation of my journey in **Excel for Data Analysis**, whe
 
 🔹 Example: Used Power Query to merge **sales and customer data** for better insights  
 
-![Power Query Example](./images/power_query_example.png)  
+![Screenshot 2025-02-26 112029](https://github.com/user-attachments/assets/c3394038-f6b5-40af-862a-72b97f81390f)
+
+![Screenshot 2025-02-24 192536](https://github.com/user-attachments/assets/53f74875-b18f-401c-862e-491669e933e0)
+
+  
 
 ---
 
